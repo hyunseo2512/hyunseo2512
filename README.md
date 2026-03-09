@@ -18,7 +18,7 @@
 ### **[Gluon] | 개인 프로젝트 (AI 통합형 IDE 개발)**
 _2026.02.18 – 2026.03.09_
 
-### **[지어봐요 마이홈 (Build-My-Home)] | 팀 프로젝트 (Backend/Core)**
+### **[Build-My-Home] | 팀 프로젝트 (Backend/Core)**
 _2025.12 – 2026.02_
 
 ## Education
