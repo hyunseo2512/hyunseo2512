@@ -1,4 +1,4 @@
-# 남현서 (Hyunseo Nam)
+# Hyunseo Nam (남현서)
 
 > **Mail** : namhyeonseo640@gmail.com 
 
